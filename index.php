@@ -1,2 +1,3 @@
 <?php
-php_info();
+phpinfo();
+echo "<br>";
